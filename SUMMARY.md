@@ -2,7 +2,10 @@
 
 * [知了客户体验云](README.md)
 * [产品概况](chan-pin-gai-kuang.md)
-* [新手引导](xin-shou-yin-dao.md)
+* [新手引导](xin-shou-yin-dao/README.md)
+  * [新建产品](xin-shou-yin-dao/xin-jian-chan-pin.md)
+  * [增长模型-解决方案介绍](xin-shou-yin-dao/zeng-chang-mo-xing-jie-jue-fang-an-jie-shao.md)
+  * [引导配置任务](xin-shou-yin-dao/yin-dao-pei-zhi-ren-wu.md)
 * [名词解释](ming-ci-jie-shi.md)
 * [看板模块](kan-ban-mo-kuai/README.md)
   * [运营看板](kan-ban-mo-kuai/yun-ying-kan-ban.md)
