@@ -1,14 +1,12 @@
-# 新建产品
-
-### 1.1新建产品
-
-进入产品管理页面，点击新建产品，进行新建产品信息的填写。
-
-![&#x65B0;&#x5EFA;&#x4EA7;&#x54C1;&#x56FE;](../.gitbook/assets/02.-xin-jian-chan-pin.png)
+# 1.1新建产品
 
 #### 1.1.1填写产品信息
 
- 第一步：填写产品信息，选择产品类型和行业。
+ 第一步：进入产品管理页面，点击新建产品，进行新建产品信息的填写。
+
+![&#x65B0;&#x5EFA;&#x4EA7;&#x54C1;&#x56FE;](../.gitbook/assets/02.-xin-jian-chan-pin.png)
+
+填写产品信息，选择产品类型和行业。
 
 ![&#x586B;&#x5199;&#x4EA7;&#x54C1;&#x4FE1;&#x606F;&#x56FE;](../.gitbook/assets/chan-pin-xin-xi-tu.png)
 
