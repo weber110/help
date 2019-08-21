@@ -60,9 +60,17 @@
 
 右侧显示该用户在最近活跃一天的详细访问记录，每一次访问中的页面路径都会被记录下来，您可以查看详细的录像操作记录。
 
-### 3、地域分布
+### 3、访客档案 
+
+在访客档案中，您可以查看目标访客的详细资料及其访问行为记录，如下： 左侧显示了该用户的详细资料，包括用户ID、实时访问状态、历史访问数据概览等。 右侧显示该用户在最近活跃一天的详细访问记录以及他的操作行为步骤，每一次访问中的页面路径都会被记录下来。
+
+![&#x8BBF;&#x5BA2;&#x6863;&#x6848;&#x56FE;](../.gitbook/assets/image%20%2837%29.png)
+
+### 4、地域分布
 
 知了客户体验云提供各地区访客的访问数据，可供您了解网站访客的地域分布情况，并可根据地域特征针对性地实施推广和运营方案。
+
+![](../.gitbook/assets/image%20%2829%29.png)
 
 访客地域分布图的查看方式有三种：按城市、按省份、按国家。您可从不同的维度对访客的分布状况进行不同层级的分析。
 
@@ -71,6 +79,36 @@
 ![&#x6309;&#x7701;&#x4EFD;&#x67E5;&#x770B;](../.gitbook/assets/ping-mu-kuai-zhao-20180815-xia-wu-4.53.04.png)
 
 ![&#x6309;&#x56FD;&#x5BB6;&#x67E5;&#x770B;](../.gitbook/assets/ping-mu-kuai-zhao-20180815-xia-wu-4.59.52.png)
+
+知了客户体验云提供网站访客所使用的设备终端的配置情况，包括：设备类型、浏览器、操作系统、分辨率、设备品牌等，旨在为您网站设计提供参考，以更好地优化您网站的兼容性和交互体验。‌
+
+### 5、终端详情
+
+知了客户体验云提供网站访客所使用的设备终端的配置情况，包括：设备类型、操作系统、浏览器、分辨率、设备品牌等，旨在为您网站设计提供参考，以更好地优化您网站的兼容性和交互体验。
+
+通过指标切换**新访客数、访客数、浏览量、访问次数、平均访问时长、平均访问页数、平均访问次数、跳出率；**您可详细查看各个细分维度下的指标数据详情，为您的优化和决策提供更好的参考。
+
+![&#x7EC8;&#x7AEF;&#x8BE6;&#x60C5;&#x56FE;](../.gitbook/assets/image%20%2836%29.png)
+
+#### 5.1 设备
+
+设备类型主要划分为三种：桌面、智能手机和平板电脑。![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJI7OY3uxwfckKab3XP%2F-LJxRDRxtHs8F_9NyzaQ%2F-LJwu_EMvpIAWeq4tHTL%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-08-15%20%E4%B8%8B%E5%8D%885.24.59.png?alt=media&token=520e7d12-2fa4-4d2e-bb37-97386947daf1)设备类型‌
+
+#### 5.2 浏览器
+
+知了客户统计云能够统计到用户所使用的所有浏览器类型。包括：Google Chrome、火狐浏览器、百度浏览器、360浏览器、Safari、UC浏览器、搜狗浏览器、Opera浏览器等。![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJI7OY3uxwfckKab3XP%2F-LJxRDRxtHs8F_9NyzaQ%2F-LJxPhw2Wa4CzImvI768%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-08-15%20%E4%B8%8B%E5%8D%885.25.07.png?alt=media&token=5e9c8fa9-22c3-42e8-9d80-b8a261efb638)浏览器类型‌
+
+#### 5.3 操作系统
+
+对于用户所使用设备的操作系统的统计，知了用户体验云同样能达到精确的维度。首先进行大类地划分为：Windows系统、Mac OS系统、IOS系统、Android系统等，再在以上大类的基础上进行进一步细分，精确到用户所使用的系统的版本，如IOS 10.3、 IOS 8.4等。![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJI7OY3uxwfckKab3XP%2F-LJxT9edNQfKoeC2mqvi%2F-LJxROuu7YjHt13ZyWAl%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-08-15%20%E4%B8%8B%E5%8D%885.25.14.png?alt=media&token=8358e5b7-c3d3-492f-b0ea-240ef5fe1836)操作系统分类‌
+
+#### 5.4 分辨率
+
+知了客户体验云对于用户所使用设备分辨率的统计包含：360\*640、1024\*768、1280\*1024、1366\*768、1440\*990、1920\*1080。![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJI7OY3uxwfckKab3XP%2F-LJxT9edNQfKoeC2mqvi%2F-LJxS5LPX5nSZhAqj7-p%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-08-15%20%E4%B8%8B%E5%8D%885.25.22.png?alt=media&token=8097da18-e445-4b37-a3f8-a33f732103af)分辨率类型‌
+
+#### 5.5 设备品牌
+
+对于设备品牌的统计，即统计用户所使用手机、平板、电脑的品牌，如Apple、华为、小米、魅族等。![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJI7OY3uxwfckKab3XP%2F-LJxT9edNQfKoeC2mqvi%2F-LJxT0VxhjXck0TOe9q6%2F%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-08-15%20%E4%B8%8B%E5%8D%885.25.32.png?alt=media&token=c660c956-5f29-4d14-8faa-f08c22de378f)设备品牌类型
 
   
 
