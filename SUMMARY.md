@@ -13,6 +13,8 @@
   * [2.4用户反馈怎么样](shu-ju-mo-kuai/yong-hu-fan-kui-zen-me-yang.md)
 * [洞察](dong-cha/README.md)
   * [3.1 新建看板](dong-cha/3.1-xin-jian-kan-ban.md)
+  * [3.2 产品概览](dong-cha/3.2-chan-pin-gai-lan.md)
+  * [3.3 增长模型](dong-cha/3.3-zeng-chang-mo-xing.md)
 * [名词解释](ming-ci-jie-shi.md)
 * [看板模块](kan-ban-mo-kuai/README.md)
   * [运营看板](kan-ban-mo-kuai/yun-ying-kan-ban.md)
