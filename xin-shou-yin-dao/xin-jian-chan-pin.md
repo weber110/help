@@ -32,9 +32,11 @@ Step3:第三步：检测数据
 
 检测失败，说明系统未收到你的应用数据，可能存在以下原因： 
 
+{% hint style="info" %}
 （一）代码没有放置&lt;head&gt;和&lt;/head&gt;之间 
 
 （二）网址不能是 localhost 或 IP 格式，请换成域名格式的地址 有相关疑问请联系客服或查看开发文档
+{% endhint %}
 
 ![&#x6570;&#x636E;&#x76D1;&#x6D4B;&#x5931;&#x8D25;&#x56FE;](../.gitbook/assets/image%20%2812%29.png)
 
