@@ -44,8 +44,5 @@
 * [看板模块](kan-ban-mo-kuai/README.md)
   * [运营看板](kan-ban-mo-kuai/yun-ying-kan-ban.md)
   * [客户体验健康度](kan-ban-mo-kuai/ke-hu-ti-yan-jian-kang-du.md)
-  * [实时看板](kan-ban-mo-kuai/shi-shi-kan-ban.md)
-* [分析模块](fen-xi-mo-kuai/README.md)
-  * [访客生命周期](fen-xi-mo-kuai/fang-ke-sheng-ming-zhou-qi.md)
-  * [转化目标](fen-xi-mo-kuai/zhuan-hua-mu-biao.md)
+  * [访客生命周期](kan-ban-mo-kuai/fang-ke-sheng-ming-zhou-qi.md)
 

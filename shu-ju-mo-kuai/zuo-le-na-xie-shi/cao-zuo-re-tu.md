@@ -22,7 +22,7 @@
 
 ### 2、浏览热图（Move Heatmaps）
 
-![&#x6D4F;&#x89C8;&#x70ED;&#x56FE;&#x793A;&#x4F8B;](../../.gitbook/assets/image%20%2851%29.png)
+![&#x6D4F;&#x89C8;&#x70ED;&#x56FE;&#x793A;&#x4F8B;](../../.gitbook/assets/image%20%2852%29.png)
 
 ### 3、分屏热图（Scroll Heatmaps）
 
